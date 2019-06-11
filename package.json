@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/InnanaDM/Hello_React/issues"
   },
-  "homepage": "https://github.com/InnanaDM/Hello_React#readme"
+  "homepage": "https://github.com/InnanaDM/Hello_React#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
